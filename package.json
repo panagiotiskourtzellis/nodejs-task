@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_task",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Panagiotis Kourtzellis",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.0.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
